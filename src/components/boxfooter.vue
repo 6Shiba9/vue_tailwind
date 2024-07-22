@@ -44,6 +44,7 @@
       <div class="hover:underline">Privacy</div>
     </div>
   </div>
+
 </template>
 <script></script>
 <style>

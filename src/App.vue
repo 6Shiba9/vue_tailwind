@@ -2,7 +2,7 @@
 import alert_bar from "./components/alert_bar.vue";
 import navbar from "./components/navbar.vue";
 import crad from "./components/crad.vue";
-import swiper from "./components/swiper.vue";
+import slider from "./components/slider.vue";
 import contactbox from "./components/contactbox.vue";
 import recent from "./components/recent.vue";
 import categories from "./components/categories.vue";
@@ -19,7 +19,7 @@ import boxfooter from "./components/boxfooter.vue";
       </div>
     </header>
     <div>
-      <swiper />
+     <slider />
     </div>
     <div>
       <crad />
