@@ -1,8 +1,8 @@
 <template>
   <herder class="">
-    <div class="flex justify-around p-8">
+    <div class="flex justify-center p-8">
       <div class="font-bold text-xl">Recent</div>
-      <div class="w-[220px]"></div>
+      <div class="w-[1020px]"></div>
       <div herf="/see all" class="text-[#1f8cf1] block hover:underline">
         See all
       </div>
